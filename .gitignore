@@ -1,3 +1,7 @@
+#Platform IO
+.pioenvs
+.piolibdeps
+
 # Prerequisites
 *.d
 
